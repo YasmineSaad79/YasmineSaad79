@@ -1,16 +1,57 @@
-## Hi there 👋
+# Hello 👋 I'm Yasmine Saad  
 
-<!--
-**YasmineSaad79/YasmineSaad79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full-Stack Developer | 🤖 Automation Learner  
 
-Here are some ideas to get you started:
+I build full-stack web applications and enjoy working with databases, APIs, and automation tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👩‍💻 About Me
+- 🔹 Full-Stack Developer (Frontend & Backend)
+- 🔹 Experience building real-world projects
+- 🔹 Working with PostgreSQL, REST APIs, and authentication
+- 🔹 Currently learning **Automation Testing**
+- 🔹 Interested in clean code and scalable systems
+
+---
+## 🛠 Tech Stack
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+</p>
+
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### 🗄 Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,firebase" />
+</p>
+
+### Automation
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+---
+
+## 🚀 Projects
+- 🔹 Full-Stack Web Applications
+- 🔹 Database-driven systems
+- 🔹 Automation & testing practice projects
+
+📌 Check my pinned repositories below 👇
+
+---
+
+## 📊 GitHub Stats
+![Yasmine's GitHub stats](https://github-readme-stats.vercel.app/api?username=YasmineSaad79&show_icons=true)
+
+---
+
+## 📫 Contact
+-📧 Email: [saady9055@gmail.com](mailto:saady9055@gmail.com)
+
