@@ -44,12 +44,6 @@ I build full-stack web applications and enjoy working with databases, APIs, and 
 - 🔹 Automation & testing practice projects
 
 📌 Check my pinned repositories below 👇
-
----
-
-## 📊 GitHub Stats
-![Yasmine's GitHub stats](https://github-readme-stats.vercel.app/api?username=YasmineSaad79&show_icons=true)
-
 ---
 
 ## 📫 Contact
