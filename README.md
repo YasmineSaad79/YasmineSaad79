@@ -33,7 +33,7 @@ I build full-stack web applications and enjoy working with databases, APIs, and 
 
 ### Automation
 <p>
-  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=python" /> learning
 </p>
 
 ---
