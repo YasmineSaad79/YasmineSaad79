@@ -7,8 +7,7 @@ I build full-stack web applications and enjoy working with databases, APIs, and 
 ---
 
 ## 👩‍💻 About Me
-- 🔹 Full-Stack Developer (Frontend & Backend)
-- 🔹 Experience building real-world projects
+- 🔹 Full-Stack Developer
 - 🔹 Currently learning **Automation Testing**
 - 🔹 Interested in clean code and scalable systems
 
