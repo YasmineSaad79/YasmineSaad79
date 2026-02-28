@@ -16,7 +16,7 @@ I build full-stack web applications and enjoy working with databases, APIs, and 
 
 ### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,flutter" />
 </p>
 
 ### Backend
@@ -35,15 +35,6 @@ I build full-stack web applications and enjoy working with databases, APIs, and 
 </p>
 
 ---
-
-## 🚀 Projects
-- 🔹 Full-Stack Web Applications
-- 🔹 Database-driven systems
-- 🔹 Automation & testing practice projects
-
-📌 Check my pinned repositories below 👇
----
-
 ## 📫 Contact
 -📧 Email: [saady9055@gmail.com](mailto:saady9055@gmail.com)
 
